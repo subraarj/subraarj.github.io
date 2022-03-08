@@ -1,0 +1,1 @@
+I habe worked in multiple research labs, from wet labs to computional ones. I am currently working in a computional biology lab at Oregon State Univerisity. I work on pipelines in python and am involved with building and modifying said pipelines for a variety of means.
